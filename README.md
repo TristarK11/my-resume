@@ -46,3 +46,5 @@ This website includes the following sections:
 
 - **Form validation**: Checks that all fields are filled in properly.
 - **Interactive navigation bar**: Smooth scroll effect and mobile toggle menu.
+
+  ## Here is the link to my resume that is deployed " https://tristark11.github.io/my-resume/ "
